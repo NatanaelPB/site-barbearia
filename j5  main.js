@@ -1,0 +1,1 @@
+ducument.querySelector(".tecla pom");
